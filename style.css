@@ -121,6 +121,10 @@ nav a {
   width: calc(100% / 3);
   display: flex;
 }
+.coffee .gif img {
+  height: 100%;
+  width: 100%;
+}
 .coffee .gif a {
   position: absolute;
   top: 92%;
